@@ -1,4 +1,5 @@
 ### Hi Guys 👋
+### [關於我] (https://www.notion.so/Resume-95900efa1586499fbdf809cc25190a8e?pvs=4)
 
 >我是一位熱愛學習新事物的青年，開發一些專案。希望能夠和大家一起學習和精進自己程式能力
 
@@ -9,6 +10,7 @@
 </summary>
 
 ## Quick overview
+
 
 
 #### GitHub stats 
