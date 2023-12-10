@@ -52,7 +52,7 @@
 
 ### 基礎爬蟲
 - beautifulsoup爬取靜態網頁資料
-- selenium爬取動態資料
+- selenium爬取動態網頁資料
 
 
 
