@@ -6,7 +6,7 @@
 ================================================================
 <details>
 <summary>
-  More stuff about me
+  More about myself
 </summary>
 
 ## Quick overview
@@ -15,10 +15,11 @@
 
 #### GitHub stats 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Tung1213&show_icons=true&line_height=27&include_all_commits=true" alt="My github stats" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Tung1213&show_icons=true&line_height=27&include_all_commits=true&show_icons=true&theme=radical" alt="My github stats" />
 </a>  
 
-
+#### Most used Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tung1213)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 技術📜
 
@@ -41,14 +42,6 @@
 ### 深度學習技術
 - PyTorch ([Microsoft Certified](https://www.youracclaim.com/badges/46b260a8-ef2c-41a3-9f61-aa0920eab84a/public_url))
 
-### 基礎剪輯
-- Canva美編
-- 剪映剪輯影片、上字幕、特效等
-
-  1. [Notion] (https://www.notion.so/local-d48a7dd7f0da46f8971afb140d94e50b?pvs=4)
-  2. [IG] (https://www.instagram.com/fashiongary_12.13)
-  3. [TikTOK] (https://www.tiktok.com/@tung.1213)<br>
-(作品在我的連結裡唷~~ )
 
 ### 基礎爬蟲
 - beautifulsoup爬取靜態網頁資料
@@ -68,6 +61,17 @@
 - 提升自己程式能力
 - 持續開發深度學習專案
 
+  
+================================================================(額外基礎技能)
+
+### 基礎剪輯
+- Canva美編
+- 剪映剪輯影片、上字幕、特效等
+
+  1. [Notion] (https://www.notion.so/local-d48a7dd7f0da46f8971afb140d94e50b?pvs=4)
+  2. [IG] (https://www.instagram.com/fashiongary_12.13)
+  3. [TikTOK] (https://www.tiktok.com/@tung.1213)<br>
+(作品在我的連結裡唷~~ )
 
 
 
