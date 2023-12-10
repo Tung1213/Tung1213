@@ -42,10 +42,11 @@
 ### 基礎剪輯
 - Canva美編
 - 剪映剪輯影片、上字幕、特效等
-(作品在我的連結裡唷~~ )
-1. [Notion](https://www.notion.so/local-d48a7dd7f0da46f8971afb140d94e50b?pvs=4)
-2. [IG] (https://www.instagram.com/fashiongary_12.13)
-3. [TikTOK] (https://www.tiktok.com/@tung.1213)
+
+  1. [Notion] (https://www.notion.so/local-d48a7dd7f0da46f8971afb140d94e50b?pvs=4)
+  2. [IG] (https://www.instagram.com/fashiongary_12.13)
+  3. [TikTOK] (https://www.tiktok.com/@tung.1213)
+  (作品在我的連結裡唷~~ )
 
 ### 基礎爬蟲
 - beautifulsoup爬取靜態網頁資料
